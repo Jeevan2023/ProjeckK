@@ -14,7 +14,7 @@ A simple chatbot application that uses Google's Gemini API. The application has 
 2. Install the required Python packages:
    ```
    pip install -r requirements.txt
-   ```
+   
 
 3. Create a `.env` file in the project root directory with your Gemini API key:
    ```
